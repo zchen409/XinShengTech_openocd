@@ -1,0 +1,2 @@
+# XinShengTech_openocd
+cmlink_gdbserver.exe文件来源于NucleiStudio中toolchain的openocd工具目录
