@@ -1,0 +1,48 @@
+INFO: 2022/06/28 20:56:33 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 20:56:33 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 20:56:43 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 20:56:43 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 20:56:55 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 20:56:55 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 20:57:41 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 20:57:41 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 20:59:00 log.go:91: Connection #001 Opened :3333 >>> Serial Port
+INFO: 2022/06/28 20:59:27 log.go:91: Connection #001 Closed (790 bytes sent, 11017 bytes recieved)
+INFO: 2022/06/28 21:05:15 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:05:15 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:05:54 log.go:91: Failed to resolve local address: address 9000: missing port in address
+INFO: 2022/06/28 21:06:20 log.go:91: Failed to resolve local address: address 9000: missing port in address
+INFO: 2022/06/28 21:06:48 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to 9000 
+INFO: 2022/06/28 21:06:48 log.go:91: Failed to Open Serial Port: The system cannot find the file specified.
+INFO: 2022/06/28 21:07:19 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:07:19 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:07:30 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:07:30 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:07:50 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to 9000 
+INFO: 2022/06/28 21:07:50 log.go:91: Failed to Open Serial Port: The system cannot find the file specified.
+INFO: 2022/06/28 21:08:07 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to 9000 
+INFO: 2022/06/28 21:08:07 log.go:91: Failed to Open Serial Port: The system cannot find the file specified.
+INFO: 2022/06/28 21:08:20 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to 9000 
+INFO: 2022/06/28 21:08:20 log.go:91: Failed to Open Serial Port: The system cannot find the file specified.
+INFO: 2022/06/28 21:08:30 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to 9000 
+INFO: 2022/06/28 21:08:30 log.go:91: Failed to Open Serial Port: The system cannot find the file specified.
+INFO: 2022/06/28 21:09:17 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to gdb_port 9000 
+INFO: 2022/06/28 21:09:17 log.go:91: Failed to Open Serial Port: The system cannot find the file specified.
+INFO: 2022/06/28 21:13:45 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to 9000 
+INFO: 2022/06/28 21:13:45 log.go:91: Failed to Open Serial Port: The system cannot find the file specified.
+INFO: 2022/06/28 21:13:58 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:13:58 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:14:10 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:14:10 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:15:20 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :9000 to COM52 
+INFO: 2022/06/28 21:15:21 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:15:50 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :9000 to COM52 
+INFO: 2022/06/28 21:15:50 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:16:04 log.go:91: Connection #001 Opened :9000 >>> Serial Port
+INFO: 2022/06/28 21:16:09 log.go:91: Connection #001 Closed (790 bytes sent, 11017 bytes recieved)
+INFO: 2022/06/28 21:17:24 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:17:24 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:17:32 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:17:32 log.go:91: echo "Started by GNU MCU Eclipse"
+INFO: 2022/06/28 21:23:22 log.go:91: cm32-gdb-proxy (0.0.0-src) proxing from :3333 to COM52 
+INFO: 2022/06/28 21:23:22 log.go:91: echo "Started by GNU MCU Eclipse"

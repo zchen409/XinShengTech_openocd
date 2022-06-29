@@ -1,7 +1,3 @@
-# XinShengTech_openocd
-所有文件来源于NucleiStudio中toolchain的openocd工具目录
-
-
 # Nuclei OpenOCD Distribution
 
 ## 2022.04
